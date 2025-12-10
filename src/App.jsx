@@ -1,6 +1,6 @@
 import React from 'react'
 import { Route, Routes } from 'react-router'
-import Login from './pages/login'
+import Login from './pages/Login'
 import ProtectedLayout from './layout/ProtectedLayout'
 import Home from './pages/Home'
 import UpdateTodo from './components/UpdateTodo'
